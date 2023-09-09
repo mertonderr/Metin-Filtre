@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+#filterInput{
+    margin-top: 8rem;
+    margin-left: 40rem;
+}
+#results{
+    margin-left: 38rem;
+}
+.messages{
+    margin-top: -5rem;
+}
+.filters{
+    font-size: 25px;
+    margin-top: 3rem;
+    margin-left: 37rem;
+}
